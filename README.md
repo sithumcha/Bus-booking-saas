@@ -6,6 +6,26 @@
 
 ---
 
+## 📷 Application Preview / Screenshots
+
+Here are some screenshots demonstrating the premium glassmorphic UI and features of the platform:
+
+### 1. Passenger Portal (B2C)
+* **Passenger Search and Homepage**:
+  ![Passenger Search](screenshots/passenger_search.png)
+* **Interactive 3D Cabin Seat Selection**:
+  ![Seat Selection](screenshots/seat_selection.png)
+
+### 2. Operator Dashboard (B2B)
+* **Fleet Management & Analytics**:
+  ![Operator Dashboard](screenshots/operator_dashboard.png)
+
+### 3. Super Admin Dashboard (Platform Owner)
+* **Platform Metrics & Commission Tracking**:
+  ![Super Admin Dashboard](screenshots/superadmin_dashboard.png)
+
+---
+
 ## 🌟 Platform Architecture & Modules
 
 The platform is divided into three main interfaces, each tailored with specific roles, permissions, and dashboards.

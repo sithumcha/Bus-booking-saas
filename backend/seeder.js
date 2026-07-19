@@ -28,6 +28,15 @@ const importData = async () => {
       phone: '0771234567'
     });
 
+    // Create a demo admin
+    await User.create({
+      name: 'Demo Admin',
+      email: 'admin@demo.com',
+      password: 'password123',
+      phone: '0777654321',
+      role: 'admin'
+    });
+
     // Create a demo operator
     const operator = await Operator.create({
       companyName: 'Superline Travels',
